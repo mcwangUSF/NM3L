@@ -3,24 +3,23 @@ title: Michael Cai Wang
 role: Assistant Professor of Mechanical Engineering
 bio: My research interests include anything at the nanoscale.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Interface/Surface Phenomena
+  - Nanomanufacturing
+  - Materials Science
+  - 2D Materials
+  - Self-Assembly
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: mailto:mcwang@usf.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/mcwangUSF
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=c23NVP8AAAAJ
 organizations:
-  - name: Stanford University
+  - name: University of South Florida
     url: ""
 education:
   courses:
