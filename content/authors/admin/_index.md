@@ -35,7 +35,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - PI
+  - Principal Investigators
 highlight_name: false
 ---
 
