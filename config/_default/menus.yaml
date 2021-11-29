@@ -16,6 +16,9 @@ main:
   - name: Publications
     url: publication
     weight: 50
+  - name: My Section
+    url: /#my-section
+    weight: 50
   - name: Contact
     url: contact
     weight: 60
