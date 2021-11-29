@@ -6,7 +6,7 @@ superuser: false
 authors:
   - 吳恩達
 title: Zhewen Yin
-role: PhD Candidate
+role: PhD Candidate in Mechanical Engineering
 bio: My research interests include skateboarding.
 interests:
   - Artificial Intelligence
