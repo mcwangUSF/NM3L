@@ -4,7 +4,7 @@ widget_id: NM3L
 headless: true
 weight: 10
 title: NM3L
-hero_media: welcome.jpg
+hero_media: mbe20210625.jpg
 design:
   columns: "1"
   css_style: null
