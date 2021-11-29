@@ -9,6 +9,8 @@ design:
   columns: "1"
   css_style: null
   css_class: null
+  background:
+    image: mbe20210625.jpg
 ---
 <br>
 
