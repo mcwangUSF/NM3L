@@ -7,6 +7,6 @@ social:
       header: false
     link: https://scholar.google.com/citations?user=yBxPI60AAAAJ
     icon_pack: ai
-    icon: google scholar
+    icon: google-scholar
 superuser: false
 ---
