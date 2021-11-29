@@ -3,7 +3,7 @@ widget: hero
 widget_id: NM3L
 headless: true
 weight: 10
-title: NM3L @ USF
+title: NM3L
 hero_media: welcome.jpg
 design:
   columns: "1"
