@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: dinner20180926.jpg
+    image: bowling20210713.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
