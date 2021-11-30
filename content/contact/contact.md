@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-We are always looking for motivated undergraduate students, graduate students, and post docs to join our group. Please contact Prof. Wang with your CV. For media and other general inquiries, please reach out to the USF Mechanical Engineering and/or Medical Engineering departments.
+We are always looking for motivated undergraduate students, graduate students, and post docs to join our group, regardless of where you come from or where you are headed. Please contact Prof. Wang with your CV and relevant manuscripts/portfolio. For media and other general inquiries, please reach out directly to the USF Mechanical Engineering and/or Medical Engineering departments.
