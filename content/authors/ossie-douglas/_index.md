@@ -1,13 +1,13 @@
 ---
 title: Ossie Douglas
 role: PhD Candidate in Mechanical Engineering
-avatar_filename: avatar
+avatar_filename: ossie1.jpg
 social:
   - display:
       header: false
-    link: https://scholar.google.com/citations?user=yBxPI60AAAAJ
+    link: https://twitter.com/oh_sea
     icon_pack: ai
-    icon: google-scholar
+    icon: twitter
 superuser: false
 user_groups:
   - Graduate Students
