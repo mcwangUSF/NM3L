@@ -8,5 +8,8 @@ social:
     link: https://scholar.google.com/citations?user=rMxz8_wAAAAJ
     icon_pack: ai
     icon: google-scholar
+email: britneys@usf.edu
 superuser: false
+user_groups:
+  - Undergraduate Students
 ---
