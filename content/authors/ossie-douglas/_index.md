@@ -6,7 +6,7 @@ social:
   - display:
       header: false
     link: https://twitter.com/oh_sea
-    icon_pack: ai
+    icon_pack: fab
     icon: twitter
 superuser: false
 user_groups:
