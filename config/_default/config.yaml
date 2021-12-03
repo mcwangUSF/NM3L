@@ -80,7 +80,8 @@ related:
       
 frontmatter:
   date:
-  - date
+  - myDate
+  - :default 
   # - publishDate
   # - lastmod
   # expiryDate:
