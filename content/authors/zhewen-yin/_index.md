@@ -1,12 +1,13 @@
 ---
+title: Zhewen Yin
+role: PhD Candidate in Mechanical Engineering
+avatar_filename: zhewen1.jpg
 organizations:
   - name: University of South Florida
     url: ""
 superuser: false
 authors:
   - Zhewen Yin
-title: Zhewen Yin
-role: PhD Candidate in Mechanical Engineering
 bio: My research interests include skateboarding.
 interests:
   - 2D materials
