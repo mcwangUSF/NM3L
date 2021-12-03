@@ -23,15 +23,15 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Mechanical Engineering
+      institution: University of Illinois at Urbana-Champaign
+      year: 2018
+    - course: MS in Mechanical Engineering
+      institution: University of Illinois at Urbana-Champaign
+      year: 2014
+    - course: BASc in Mechanical Engineering
+      institution: University of Toronto
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 user_groups:
