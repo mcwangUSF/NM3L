@@ -12,7 +12,7 @@ social:
     icon: twitter
 education:
   courses:
-    - course: BS Student in Biomedical Engineering
+    - course: BS in Biomedical Engineering
       institution: University of South Florida (USF)
       year: 2024
 email: anjunhu@usf.edu
