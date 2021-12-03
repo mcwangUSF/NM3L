@@ -10,5 +10,5 @@ social:
     icon: google-scholar
 superuser: false
 user_groups:
-  - Principal Investigator
+  - Principal Investigators
 ---
