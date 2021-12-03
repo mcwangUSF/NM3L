@@ -1,5 +1,5 @@
 ---
-title: Anjun Hu
+title: Angela Anjun Hu
 role: Undergraduate Research Assistant
 avatar_filename: anjun1.jpg
 interests:
