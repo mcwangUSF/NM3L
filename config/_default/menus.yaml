@@ -22,9 +22,12 @@ main:
   - name: Sponsors
     url: sponsors
     weight: 5
+  - name: Landing
+    url: landing
+    weight: 6
   - name: Contact
     url: contact
-    weight: 6
+    weight: 7
 #  - name: My Section
 #    url: my-section
 #    weight: 50
