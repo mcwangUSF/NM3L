@@ -18,7 +18,7 @@ education:
 email: anjunhu@usf.edu
 superuser: false
 user_groups:
-  - Undergraduate Student
+  - Undergraduate Students
 ---
 
 
