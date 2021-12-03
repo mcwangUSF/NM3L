@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: University of South Florida
     url: ""
 superuser: false
 authors:
@@ -9,9 +9,10 @@ title: Zhewen Yin
 role: PhD Candidate in Mechanical Engineering
 bio: My research interests include skateboarding.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 2D materials
+  - metal oxides
+  - fuel cells
+  - supercapacitors.
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,10 +41,6 @@ email: ""
 user_groups:
   - Graduate Students
 ---
-zheweny@usf.edu
-
 M.S. in Materials Science and Engineering, University of South Florida (USF), 2018
 
 B.S. in Nuclear Engineering, University of Science and Technology of China (USTC), 2016
-
-Research interests: Graphene, metal oxides, fuel cells, supercapacitors.
