@@ -1,6 +1,12 @@
 ---
 title: Md Rubayat-e Tanjil joined our group as a Ph.D. student!
 date: 2018-04-13
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
 ---
 
 Md Rubayat-e Tanjil joined our group as a Ph.D. student!
