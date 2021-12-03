@@ -8,7 +8,7 @@ social:
   - display:
       header: false
     link: https://twitter.com/Angela22722569
-    icon_pack: ai
+    icon_pack: fab
     icon: twitter
 education:
   courses:
