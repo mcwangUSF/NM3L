@@ -1,6 +1,6 @@
 ---
 title: Zhewen Yin joined our group as a Ph.D. student!
-date: 2018-05-02T04:01:55.241Z
+date: 2018-05-02
 draft: false
 featured: false
 image:
